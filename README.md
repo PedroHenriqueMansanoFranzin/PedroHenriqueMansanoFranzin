@@ -8,7 +8,7 @@ Tenho interesse em aprender, desenvolver soluções práticas e evoluir profissi
 
 - 🌱 Atualmente estudando desenvolvimento de software
 - 💻 Interesse em programação, tecnologia e resolução de problemas
-- 🎯 Objetivo: conquistar uma oportunidade de estágio
+- 🎯 Objetivo: conquistar uma oportunidade de estágio, crescimento pessoal
 
 ## Tecnologias
 
@@ -16,6 +16,8 @@ Tenho interesse em aprender, desenvolver soluções práticas e evoluir profissi
 - HTML e CSS
 - JavaScript
 - Python
+- C
+- Vercel
 - SQL
 
 > Esta lista pode ser ajustada para mostrar apenas tecnologias que você já sabe explicar em uma entrevista.
@@ -24,13 +26,13 @@ Tenho interesse em aprender, desenvolver soluções práticas e evoluir profissi
 
 Adicione aqui seus melhores projetos, incluindo uma breve descrição e o link:
 
-- **[Nome do projeto](LINK_DO_PROJETO)** — descreva o problema resolvido, as tecnologias usadas e o que você desenvolveu.
-- **[Nome do projeto](LINK_DO_PROJETO)** — destaque o principal desafio e o resultado obtido.
-
+- **[ProjetoEngenhariaDeSoftware]([LINK_DO_PROJETO](https://github.com/PedroHenriqueMansanoFranzin/ProjetoEngenhariaDeSoftware.git))** — O projeto tem como objetivo atender as demandas de um programa Pews, que cadastra médicos, técnicos, enfermeiras e pacientes.
+Com tais cadastros, o programa oferece a opção do questionário Pews, e retorna o melhor procedimento a ser tomado.
+- **[ElectroMob]([LINK_DO_PROJETO](https://github.com/PedroHenriqueMansanoFranzin/EletroMob.git))** — EletroMob é uma plataforma completa para aluguel de bicicletas e patinetes elétricos para uso urbano. O sistema oferece uma experiência intuitiva desde a navegação inicial até a conclusão do pagamento.
 ## Contato
 
-- LinkedIn: [Adicione o link do seu perfil](https://linkedin.com)
-- Email: seuemail@exemplo.com
+- LinkedIn: www.linkedin.com/in/pedro-henrique-masano-franzin
+- Email: pedromansanofranzin@gmail.com
 
 ---
 
